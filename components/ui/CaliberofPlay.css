@@ -1,0 +1,24 @@
+.Caliber-of-Play {
+    padding: 10px;
+    color: #c9d1d9;
+    display: flex;
+    background-color: #0d1117;
+    flex-direction: column;
+    align-items: center;
+  } 
+
+  .Caliber-of-Play .para {
+    padding: 20px;
+    text-align: center;
+    font-size: 18px;
+    line-height: 1.8;
+    width: 600px;
+    /* margin-bottom: 30px; */
+}
+
+@media screen and (max-width: 480px) {
+    .Caliber-of-Play .para {
+    
+        width: 200px
+    }
+  }

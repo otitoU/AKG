@@ -1,4 +1,24 @@
 section {
-    padding: 20rem 30rem;
-    background-color: #fff;
+    padding: 10rem;
 }
+
+h1 {
+    color: #f5e8db;
+    text-align: center;
+    font-size: 50px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.home-container {
+    background-image: url('/images/background2.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 120vh;
+  }
+  
+  .home-container2 {
+    background-image: url('/images/Fade-to-Black-Feature.webp');
+    background-size: cover;
+    background-position: center;
+    height: 80vh;
+  }  
