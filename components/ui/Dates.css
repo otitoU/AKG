@@ -1,0 +1,22 @@
+.dates-section {
+    color: #f5e8db;
+    padding: 10px 20px;
+    text-align: center;
+  }
+  
+  .dates-section h2 {
+    font-size: 1.8rem;
+    margin-bottom: 20px;
+  }
+  
+  .dates-section ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .dates-section li {
+    margin: 15px 0;
+    font-size: 1.1rem;
+    color: #ffffff;
+  }
+  
